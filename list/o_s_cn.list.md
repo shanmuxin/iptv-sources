@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -457,4 +457,4 @@
 | 451 | ST Bongo | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8> |
 | 452 | ST Rembo TV | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8> |
 
-Updated at **Thu Oct 09 2025 10:15:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 09 2025 12:29:01 GMT+0000 (Coordinated Universal Time)**
